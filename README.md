@@ -1,3 +1,4 @@
+[![CI](https://github.com/jaysuryawanshi65/job-management-system/actions/workflows/ci.yml/badge.svg)](https://github.com/jaysuryawanshi65/job-management-system/actions/workflows/ci.yml)
 \# Job Management System
 
 
