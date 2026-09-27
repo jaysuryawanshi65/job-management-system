@@ -12,6 +12,16 @@ The platform provides separate workflows for \*\*Administrators, Recruiters, and
 
 \---
 
+\## 🖥️ UI Preview
+
+
+
+\### Home Page
+
+
+
+!\[JobPortal Home Page](screenshots/home-page.png)
+
 
 
 \## 🚀 Features
