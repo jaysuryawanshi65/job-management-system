@@ -1,0 +1,11 @@
+bin/
+obj/
+Uploads/
+*.user
+*.suo
+.vs/
+.git/
+.gitignore
+.env
+.env.*
+!.env.example
